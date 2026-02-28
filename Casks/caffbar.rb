@@ -1,8 +1,8 @@
 cask "caffbar" do
-  version "0.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "0.1.0"
+  sha256 "870084de41959c08b2b868338a820183594b7934eebaca726d89e88866ced0f1"
 
-  url "https://github.com/akalp/caffbar/releases/download/v#{version}/CaffBar-#{version}.zip"
+  url "https://github.com/akalp/caffbar/releases/download/v0.1.0/CaffBar-0.1.0.zip"
   name "CaffBar"
   desc "Menu bar utility to control caffeinate with presets and modes"
   homepage "https://github.com/akalp/caffbar"
