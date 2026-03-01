@@ -1,6 +1,6 @@
 cask "caffbar" do
-  version "0.1.0"
-  sha256 "870084de41959c08b2b868338a820183594b7934eebaca726d89e88866ced0f1"
+  version "0.1.1"
+  sha256 "938b1b0014fb8a57f3c9698589e1dca7344e3d91ad548833d681e1e144bd8f88"
 
   url "https://github.com/akalp/caffbar/releases/download/v0.1.0/CaffBar-0.1.0.zip"
   name "CaffBar"
